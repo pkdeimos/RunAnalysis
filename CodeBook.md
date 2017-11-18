@@ -1,5 +1,5 @@
-#Code book for Run Analysis Assignment
-##Data Cleaning
+# Code book for Run Analysis Assignment
+## Data Cleaning
 
 There are 2 data sets - mergedata and tidydata
 
@@ -93,7 +93,7 @@ fBodyBodyGyroJerkMag-std()
 fBodyBodyGyroJerkMag-meanFreq()
 
 
-###tidydata
+### tidydata
 tidydata data set is the tidied form of mergedata data set
 It has mean of each measurement in mergedata for each Activity and Subject
 
